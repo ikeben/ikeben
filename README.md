@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ikeben
     🦾 Bernard is my real name:)
 - 👀 I’m interested in electronics and codes running in them
-- 🌱 I’m currently learning python, Electronics- IoT
-- 💞️ I’m looking to collaborate on - projects solving real world problems
+- 🌱 I’m currently learning python, Electronics- Io
 - 📫 How to reach me ...wait....
 
 <!---
