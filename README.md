@@ -1,5 +1,5 @@
 - 👋 Hi, I’m
-    🦾 Bernard is my real name:)
+    🦾 Bernard
 - 👀 I’m interested in electronics and codes running in them
 - 🌱 I’m currently learning python, Electronics- IoT
 - 📫 How to reach me ...wait....
